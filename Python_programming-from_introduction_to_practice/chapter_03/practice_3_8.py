@@ -1,0 +1,12 @@
+places = ['nan ji', 'xi zang', 'san ya', 'xi ma la ya', 'mei guo']
+print(places)
+print(sorted(places))
+print(places)
+places.reverse()
+print(places)
+places.reverse()
+print(places)
+places.sort()
+print(places)
+places.sort(reverse = True)
+print(places)
